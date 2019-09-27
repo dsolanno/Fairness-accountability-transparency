@@ -58,16 +58,15 @@ Repository created to maintain a list of interesting Github projects related to 
    https://fair-ia.ekstrandom.net/sigir2019   
    
 * **Mirror mirror**
-   Reflections in quantitative fairness   
    https://shiraamitchell.github.io/fairness/   
-
+   Reflections in quantitative fairness  
 
 
 ## Others
 * **Propublica Compass Analysis**
-   https://github.com/propublica/compas-analysis
-   Data and analysis for 'Machine Bias' in reicidivism risk assessment data.   
-   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)   
+   https://github.com/propublica/compas-analysis   
+   Data and analysis for 'Machine Bias' in reicidivism risk assessment data.      
+   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)      
 
 
 
