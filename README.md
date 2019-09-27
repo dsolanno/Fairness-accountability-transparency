@@ -1,5 +1,5 @@
 # Fairness-accountability-transparency
-Repository created to maintain a list of interesting Github projects related to FAT topic
+Repository created to maintain a list of interesting Github projects (and other stuff) related to Fairness, Accountability and Transparency (FAT) topic
 
 
 ## Open source software projects
