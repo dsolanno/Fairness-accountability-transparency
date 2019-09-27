@@ -51,8 +51,8 @@ Repository created to maintain a list of interesting Github projects (and other 
 
 ## Courses and workshops
 * **GIAN fairness course**
-   Course with relavant links to FAT related resources   
    https://github.com/geomblog/fairness   
+   Course with relavant links to FAT related resources   
    
 * **SIGIR 19 Wokshop in Fairness, accountability and transparency**
    https://fair-ia.ekstrandom.net/sigir2019   
