@@ -62,7 +62,7 @@ Repository created to maintain a list of interesting Github projects related to 
    Reflections in quantitative fairness  
 
 
-##Others
+## Others
 * **Propublica Compass Analysis**
    https://github.com/propublica/compas-analysis   
    Data and analysis for 'Machine Bias' in reicidivism risk assessment data.      
