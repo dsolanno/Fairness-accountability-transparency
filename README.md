@@ -46,8 +46,17 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/cosmicBboy/themis-ml   
    A library that implements fairness-aware machine learning algorithms.   
    Related paper [here](https://github.com/cosmicBboy/themis-ml/blob/master/paper/main.pdf)   
+   
+* **Fairness measures**
+   https://github.com/megantosh/fairness_measures_code   
+   Contains implementations of measures used to quantify discrimination.   
+   Algorithms implemented as explained in paper [here](https://dl.acm.org/citation.cfm?id=3110662)   
+   Related webpage [here](http://www.fairness-measures.org/Pages/Ranking)   
 
-
+* **Fair Ranking**
+   https://github.com/MilkaLichtblau/FA-IR_Ranking   
+   A tool for fair ranking in search   
+   Related paper [here](https://dl.acm.org/citation.cfm?doid=3132847.3132938)
 
 ## Courses and workshops
 * **GIAN fairness course**
