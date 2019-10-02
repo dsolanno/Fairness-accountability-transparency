@@ -13,18 +13,18 @@ Repository created to maintain a list of interesting Github projects (and other 
    Bias and Fairness Audit Toolkit by University of Chicago.   
    Related paper [here](https://arxiv.org/abs/1811.05577) .  
 
-* **Pip install fairness** 
-   https://github.com/algofairness/fairness-comparison.  
+* **Pip install fairness**    
+   https://github.com/algofairness/fairness-comparison.      
    Comparing fairness-aware machine learning techniques.   
    Related paper [here](https://arxiv.org/abs/1802.04422) .     
 
-* **FAT-forensics** 
+* **FAT-forensics**    
    https://github.com/FAT-Forensics/FAT-Forensics   
    Modular Python Toolbox for Fairness, Accountability and Transparency Forensics.   
    Related paper [here](https://arxiv.org/abs/1909.05167)   
    
  
-* **Microsoft FairLearn** 
+* **Microsoft FairLearn**    
    https://github.com/microsoft/fairlearn   
    Reductions for Fair Machine Learning   
    Related paper [here](https://arxiv.org/abs/1803.02453)   
@@ -68,14 +68,14 @@ Repository created to maintain a list of interesting Github projects (and other 
    
 * **Mirror mirror**
    https://shiraamitchell.github.io/fairness/   
-   Reflections in quantitative fairness  
+   Reflections in quantitative fairness .    
    
-* **Tutorial: 21 fairness definitions and their politics**
+* **Tutorial: 21 fairness definitions and their politics** .   
     https://www.youtube.com/watch?v=jIXIuYdnyyk
     Tutorial on existing fairness definitions and their applicability, depending on the point of view.  
 
    
-* **Challenges of incorporating algorithmic fairness in industry**
+* **Challenges of incorporating algorithmic fairness in industry** .   
    https://www.youtube.com/watch?v=UicKZv93SOY .  
    Talk at FAT* conference  
 
@@ -84,7 +84,7 @@ Repository created to maintain a list of interesting Github projects (and other 
 * **Propublica Compass Analysis**
    https://github.com/propublica/compas-analysis   
    Data and analysis for 'Machine Bias' in reicidivism risk assessment data.      
-   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)      
+   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) .        
 
 
 
