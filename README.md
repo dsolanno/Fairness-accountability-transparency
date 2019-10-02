@@ -69,6 +69,15 @@ Repository created to maintain a list of interesting Github projects (and other 
 * **Mirror mirror**
    https://shiraamitchell.github.io/fairness/   
    Reflections in quantitative fairness  
+   
+* **Tutorial: 21 fairness definitions and their politics**
+    https://www.youtube.com/watch?v=jIXIuYdnyyk
+    Tutorial on existing fairness definitions and their applicability, depending on the point of view.  
+
+   
+* **Challenges of incorporating algorithmic fairness in industry**
+   https://www.youtube.com/watch?v=UicKZv93SOY .  
+   Talk at FAT* conference  
 
 
 ## Others
@@ -83,4 +92,4 @@ Repository created to maintain a list of interesting Github projects (and other 
 
 
 
-Updated 27/09/2019
+Updated 02/10/2019
