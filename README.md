@@ -56,7 +56,12 @@ Repository created to maintain a list of interesting Github projects (and other 
 * **Fair Ranking** .  
    https://github.com/MilkaLichtblau/FA-IR_Ranking   
    A tool for fair ranking in search   
-   Related paper [here](https://dl.acm.org/citation.cfm?doid=3132847.3132938)
+   Related paper [here](https://dl.acm.org/citation.cfm?doid=3132847.3132938) .  
+   
+* **Fair Test** .  
+   https://github.com/columbia/fairtest .  
+   FairTest enables developers or auditing entities to discover and test for unwarranted associations between an algorithm's outputs and certain user subpopulations identified by protected features.   
+   Related paper [here](https://www.mhumbert.com/publications/eurosp17.pdf) .  
 
 ## Courses and workshops
 * **GIAN fairness course** .  
