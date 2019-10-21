@@ -63,7 +63,7 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/geomblog/fairness .        
    Course with relavant links to FAT related resources   
    
-* **SIGIR 19 Wokshop in Fairness, accountability and transparency**
+* **SIGIR 19 Wokshop in Fairness, accountability and transparency** .  
    https://fair-ia.ekstrandom.net/sigir2019 .     
    
 * **Mirror mirror** .  
@@ -78,18 +78,22 @@ Repository created to maintain a list of interesting Github projects (and other 
 * **Challenges of incorporating algorithmic fairness in industry** .   
    https://www.youtube.com/watch?v=UicKZv93SOY .  
    Talk at [ACM FAT* conference](https://fatconference.org/) .  
+   
+
+* **Book: Fairness in Machine Learning: Limitations and Opportunities** .  
+   Incomplete working draft, Solon Barocas, Moritz Hardt, Arvind Narayanan.   
+   https://fairmlbook.org/pdf/fairmlbook.pdf .  
 
 
 ## Others
 * **Propublica Compass Analysis** .  
    https://github.com/propublica/compas-analysis   
    Data and analysis for 'Machine Bias' in reicidivism risk assessment data.      
-   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) .        
+   Related blog entry [here](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) .       
+   
 
 
 
 
 
-
-
-Updated 02/10/2019
+Updated 21/10/2019
