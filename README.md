@@ -67,6 +67,11 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/tensorflow/fairness-indicators   
    Tensorflow's Fairness Evaluation and Visualization Toolkit .  
    
+   
+* **FairML through features perturbations**   
+   https://github.com/adebayoj/fairml   
+   It uses four input ranking algorithms to quantify a model’s relative predictive dependence on model’s inputs.   
+   
 
 ## Courses and workshops
 * **GIAN fairness course** .  
