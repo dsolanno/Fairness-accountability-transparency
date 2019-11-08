@@ -62,6 +62,11 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/columbia/fairtest .  
    FairTest enables developers or auditing entities to discover and test for unwarranted associations between an algorithm's outputs and certain user subpopulations identified by protected features.   
    Related paper [here](https://www.mhumbert.com/publications/eurosp17.pdf) .  
+   
+* **Fairness indicators**   
+   https://github.com/tensorflow/fairness-indicators   
+   Tensorflow's Fairness Evaluation and Visualization Toolkit .  
+   
 
 ## Courses and workshops
 * **GIAN fairness course** .  
