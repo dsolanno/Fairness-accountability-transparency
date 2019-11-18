@@ -72,6 +72,11 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/adebayoj/fairml   
    It uses four input ranking algorithms to quantify a model’s relative predictive dependence on model’s inputs.   
    
+* **Fair decissions despite imperfect predictions**
+   https://github.com/nikikilbertus/fair-decisions .  
+   Repository under preparation, will contain code of the related paper. 
+   Related paper [here](https://arxiv.org/pdf/1902.02979.pdf)
+   
 
 ## Courses and workshops
 * **GIAN fairness course** .  
@@ -111,4 +116,4 @@ Repository created to maintain a list of interesting Github projects (and other 
 
 
 
-Updated 08/11/2019
+Updated 18/11/2019
