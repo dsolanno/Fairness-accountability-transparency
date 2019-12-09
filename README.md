@@ -72,9 +72,9 @@ Repository created to maintain a list of interesting Github projects (and other 
    https://github.com/adebayoj/fairml   
    It uses four input ranking algorithms to quantify a model’s relative predictive dependence on model’s inputs.   
    
-* **Fair decissions despite imperfect predictions**
+* **Fair decissions despite imperfect predictions** .  
    https://github.com/nikikilbertus/fair-decisions .  
-   Repository under preparation, will contain code of the related paper. 
+   Repository under preparation, will contain code of the related paper.    
    Related paper [here](https://arxiv.org/pdf/1902.02979.pdf)
    
 
@@ -104,9 +104,13 @@ Repository created to maintain a list of interesting Github projects (and other 
    Incomplete working draft, Solon Barocas, Moritz Hardt, Arvind Narayanan.   
    https://fairmlbook.org/pdf/fairmlbook.pdf .  
    
-* **Tutorial: Fairness in Machine Learning, NIPS 2017 Tutorial — Part I**
-   Solon Barocas and Moritz Hardt. Fairness explained in terms of independence, separation and sufficiency.
-   https://mrtz.org/nips17/#/ .  
+* **Tutorial: Fairness in Machine Learning, NIPS 2017 Tutorial — Part I** .   
+   Solon Barocas and Moritz Hardt. Fairness explained in terms of independence, separation and sufficiency .     
+   Slides available [here](https://mrtz.org/nips17/#/) .  
+   
+* **Algortihmic Fairness talk at Max-Planck-Institut für Informatik, 2019**
+   Partially based on KDD 2016 and IC2S2 2017 tutorials with Sara Hajian and Francesco Bonchi and DAB 2018 keynote .  
+   Slides available [here](https://docs.google.com/presentation/d/1BFhnOV0R9qXkKPqsYt-qntyVkjXxz3JTOm7BIp6vIAw/edit#slide=id.g5222390d14_0_0)
 
 
 ## Others
