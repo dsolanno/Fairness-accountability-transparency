@@ -103,6 +103,10 @@ Repository created to maintain a list of interesting Github projects (and other 
 * **Book: Fairness in Machine Learning: Limitations and Opportunities** .  
    Incomplete working draft, Solon Barocas, Moritz Hardt, Arvind Narayanan.   
    https://fairmlbook.org/pdf/fairmlbook.pdf .  
+   
+* **Tutorial: Fairness in Machine Learning, NIPS 2017 Tutorial — Part I**
+   Solon Barocas and Moritz Hardt. Fairness explained in terms of independence, separation and sufficiency.
+   https://mrtz.org/nips17/#/ .  
 
 
 ## Others
@@ -116,4 +120,4 @@ Repository created to maintain a list of interesting Github projects (and other 
 
 
 
-Updated 18/11/2019
+Updated 09/12/2019
