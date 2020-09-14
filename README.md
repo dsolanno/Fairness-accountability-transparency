@@ -77,6 +77,11 @@ Repository created to maintain a list of interesting Github projects (and other 
    Repository under preparation, will contain code of the related paper.    
    Related paper [here](https://arxiv.org/pdf/1902.02979.pdf)
    
+* **LimeOut: **  .
+   https://github.com/vaishnavi026/LimeOut. 
+   Proposal for making classifiers fairer by reducing their dependence on sensitive features while increasing (or, at least, maintaining) their accuracy.
+   Related paper [here](https://arxiv.org/pdf/2006.10531v1.pdf)
+   
 
 ## Courses and workshops
 * **GIAN fairness course** .  
@@ -110,7 +115,7 @@ Repository created to maintain a list of interesting Github projects (and other 
    
 * **Algortihmic Fairness talk at Max-Planck-Institut für Informatik, 2019**
    Partially based on KDD 2016 and IC2S2 2017 tutorials with Sara Hajian and Francesco Bonchi and DAB 2018 keynote .  
-   Slides available [here](https://docs.google.com/presentation/d/1BFhnOV0R9qXkKPqsYt-qntyVkjXxz3JTOm7BIp6vIAw/edit#slide=id.g5222390d14_0_0)
+   Slides available [here](https://docs.google.com/presentation/d/1BFhnOV0R9qXkKPqsYt-qntyVkjXxz3JTOm7BIp6vIAw/edit#slide=id.g5222390d14_0_0). 
 
 
 ## Others
