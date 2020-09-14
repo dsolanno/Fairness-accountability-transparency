@@ -77,7 +77,7 @@ Repository created to maintain a list of interesting Github projects (and other 
    Repository under preparation, will contain code of the related paper.    
    Related paper [here](https://arxiv.org/pdf/1902.02979.pdf)
    
-* **LimeOut: **  .
+* **LimeOut:**  .
    https://github.com/vaishnavi026/LimeOut. 
    Proposal for making classifiers fairer by reducing their dependence on sensitive features while increasing (or, at least, maintaining) their accuracy.
    Related paper [here](https://arxiv.org/pdf/2006.10531v1.pdf)
