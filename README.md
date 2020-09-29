@@ -113,9 +113,13 @@ Repository created to maintain a list of interesting Github projects (and other 
    Solon Barocas and Moritz Hardt. Fairness explained in terms of independence, separation and sufficiency .     
    Slides available [here](https://mrtz.org/nips17/#/) .  
    
-* **Algortihmic Fairness talk at Max-Planck-Institut für Informatik, 2019**
+* **Algortihmic Fairness talk at Max-Planck-Institut für Informatik, 2019**.  
    Partially based on KDD 2016 and IC2S2 2017 tutorials with Sara Hajian and Francesco Bonchi and DAB 2018 keynote .  
    Slides available [here](https://docs.google.com/presentation/d/1BFhnOV0R9qXkKPqsYt-qntyVkjXxz3JTOm7BIp6vIAw/edit#slide=id.g5222390d14_0_0). 
+   
+* **How big data is unfair, 2014**.  
+   Understanding unintended sources of unfairness in data driven decision making, by Moritz Hardt.
+   Post available [here](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
 
 
 ## Others
